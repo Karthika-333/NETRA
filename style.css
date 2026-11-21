@@ -97,13 +97,13 @@ nav a:hover{
 .online-dot{
     width: 9px;
     height: 9px;
-    background: rgb(17, 223, 17) ;
+    background: rgb(17, 223, 17);
     border-radius: 50%;
 }
 
 
 #clock{
-    color: aliceblue;
+    color: rgb(255, 241, 240);
     font-family: monospace;
-    margin-left: 10px;
+    
 }
